@@ -65,16 +65,6 @@ This project focuses on customer segmentation using a combination of **KMeans cl
 
 ---
 
-## 📁 Project Structure
-├── data/
-│ └── cleaned_customer_data.csv
-├── notebooks/
-│ └── customer_segmentation.ipynb
-├── images/
-│ └── cluster_heatmap.png
-├── README.md
-└── requirements.txt
-
 ## 🚀 Future Improvements
 
 - Use **Time Series Forecasting** for customer lifetime value
